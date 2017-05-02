@@ -4,4 +4,5 @@ describe('mostProfitableDepartment()', function() {
 
     assert.equal(department, '42525 : outdoor');
   });
+  
 });

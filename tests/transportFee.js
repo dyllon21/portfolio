@@ -11,4 +11,5 @@ var transportFee = function(shift) {
   else {
     return 'Please make sure you are specifying correct shift'
   }
+  
 };

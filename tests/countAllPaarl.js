@@ -7,6 +7,7 @@ var countAllPaarl = function(array) {
     var regNumbers = [];
     for (var i = 0; i < numPlates.length; i++) {
 
+
         if (numPlates[i].startsWith('CJ')) {
             // console.log(numPlates[i]);
             regNumbers.push(numPlates[i])

@@ -24,5 +24,4 @@ function findItemsOver20(list) {
     return itemsOver;
 };
 
-//log output
 console.log(findItemsOver20(itemList, 20));

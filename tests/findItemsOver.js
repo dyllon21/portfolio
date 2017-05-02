@@ -30,7 +30,6 @@ function findItemsOver(list, threshold) {
     return overObj;
 };
 
-//log output
 console.log(findItemsOver(itemList, 20));
 //console.log(" ");
 console.log(findItemsOver(itemList2, 100));

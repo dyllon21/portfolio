@@ -15,7 +15,6 @@ var salesData = [
     {department : 'outdoor',    sales : 12006, day : 'Friday'},
     {department : 'carpentry',  sales : 16109, day : 'Friday'},
 ];
-
 function mostProfitableDepartment(salesDat) {
 
     var departmentName = '';

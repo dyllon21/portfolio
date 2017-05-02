@@ -1,6 +1,7 @@
 var countAllFromTown = function(regNum, location) {
     var splitReg = regNum.split(',');
 
+
     var townList = [];
 
     var newList = [];
