@@ -13,6 +13,5 @@ var fromWhere = function(regNum) {
     }
   };
 
-
 console.log(fromWhere('CJ'));
 console.log(fromWhere('CF'));

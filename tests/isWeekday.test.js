@@ -4,5 +4,4 @@ describe('isWeekdayfunction()',function(){
 
     assert.equal(isWeekday(date.getDay()-1), true);
 });
-
 });

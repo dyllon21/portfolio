@@ -11,6 +11,7 @@ describe('countAllPaarl()', function() {
     assert.equal(output, 4);
   });
 
+
   it("should return '0'", function() {
     var output = countAllPaarl('CA 345-155,CF 555-555,CL 345 789,CL 444-444');
     assert.equal(output, 0);

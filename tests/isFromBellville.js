@@ -5,5 +5,4 @@ return result
 
 };
 
-
 //assert.equal(isFromBellville('CY'),true);

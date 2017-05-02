@@ -11,7 +11,6 @@ var itemList2 = [
     { name : 'shirt',  price    : 99.99  },
     { name : 'jacket', price    : 499.99 },
 ];
-
 //function
 function findItemsOver(list, threshold) {
     var overObj = [];

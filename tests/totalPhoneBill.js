@@ -22,4 +22,5 @@ var totalPhoneBill = function(phoneUsage) {
 
     return 'R' + totalPhoneBill;
 }
+
 console.log(totalPhoneBill('call,sms,call,sms,sms'));

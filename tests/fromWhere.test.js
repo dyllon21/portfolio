@@ -10,5 +10,4 @@ describe('fromWhere()', function() {
 
       assert.equal(location, 'Car location unknown');
   });
-  
 });

@@ -4,5 +4,4 @@ describe('regCheckfunction()', function(){
    assert.equal(regCheck("DV 23 NB GP", "GP"),true)
    assert.equal(regCheck("DV 23 LP GP", "MP"),false)
   })
-  
 })

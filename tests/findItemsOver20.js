@@ -5,7 +5,6 @@ var itemList = [
     { name : 'bananas', price   : 27 },
     { name : 'apples',  price   : 3  },
 ];
-
 //function
 function findItemsOver20(list) {
     var itemsOver = [];

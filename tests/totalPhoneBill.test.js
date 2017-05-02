@@ -4,5 +4,4 @@ describe('totalPhoneBill()', function(){
 
     assert.equal(bill, 'R' + 7.45);
   });
-  
 });

@@ -18,6 +18,7 @@ var countAllPaarl = function(array) {
     return regNumbers.length
         // return Paarl
 }
+
 assert.equal(countAllPaarl('CJ 456,CJ 123'), 2);
 //console.log(countAllPaarl('CJ 456,CJ 123'));
 //Contact GitHub API Training Shop Blog About

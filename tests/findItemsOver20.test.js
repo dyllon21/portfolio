@@ -10,7 +10,6 @@ describe('findItemsOver20()', function() {
                   },
               {
         Item: {
-          
                 name: 'bananas',
               price: 27
             }

@@ -14,7 +14,6 @@ var isWeekday = function(weekday){
   }
 };
 
-
 const todayDay = new Date;
 console.log(isWeekday(todayDay.getDay()-1));
 //assert.equal(isWeekday('weekday'),false) ;

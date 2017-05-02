@@ -22,5 +22,4 @@ describe('transportFee()', function() {
 
     assert.equal(unknownInput, 'Please make sure you are specifying correct shift');
   });
-  
 });

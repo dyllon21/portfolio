@@ -6,4 +6,5 @@ var yearsAgo = function(year) {
     return difference
 
 };
+
 assert.equal(yearsAgo('2016'), 20);

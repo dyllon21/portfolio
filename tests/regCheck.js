@@ -3,7 +3,6 @@ var regCheck = function(regNumber,location){
 var regCheck2 = regNumber.endsWith(location);
 return regCheck2
 
-
 };
 
 //assert.equal(regCheck("DV 23 NB GP", "GP"),true);
