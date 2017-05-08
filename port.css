@@ -1,0 +1,24 @@
+body {
+  background-color: #638988;
+  background-repeat:repeat-x;
+  background-position: center;
+  text-align: center;
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU5ncYLa31B9mxdafAwMRySrgPqZUmhQm88JdIflnqIVB1oWP0");
+  background-position: bottom;
+
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: skyblue;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: skyblue;
+}
+
+ li, h3 {
+  background-color: skyblue;
+}
