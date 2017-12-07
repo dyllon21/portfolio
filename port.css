@@ -1,5 +1,5 @@
 body {
-  background-color: #638988;
+  /*background-color: #638988;*/
   background-repeat:repeat-x;
   background-position: center;
   text-align: center;
@@ -10,15 +10,15 @@ body {
 h1 {
   text-align: center;
   text-decoration: underline;
-  color: skyblue;
+  color: black;
 }
 
 h2 {
   text-align: center;
   text-decoration: underline;
-  color: skyblue;
+  color: black;
 }
 
  li, h3 {
-  background-color: skyblue;
+  background-color: white;
 }
